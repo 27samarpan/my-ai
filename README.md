@@ -1,5 +1,5 @@
 Features Provided:
 
-Tailwind design
-Tailwind animations and effects
-Full responsiveness
+  Tailwind design
+  Tailwind animations and effects
+  Full responsiveness
